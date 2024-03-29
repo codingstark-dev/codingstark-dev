@@ -3,4 +3,4 @@
 </br>
 ![](https://komarev.com/ghpvc/?username=codingstark-dev)
 </br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=codingstark-dev&theme=github-dark)]]
+![GitHub Streak](https://streak-stats.demolab.com?user=codingstark-dev&theme=github-dark)]
