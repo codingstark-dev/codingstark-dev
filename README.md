@@ -54,10 +54,16 @@ Shipping something new every week/month.
 
 Open-source tools and resources built in public.
 
-- [voice-cost](https://github.com/oss-codes/voice-cost) - Source-linked Voice AI pricing calculators, framework research, and provider comparisons. Built with Astro. ⭐ 3
-- [website](https://github.com/oss-codes/website) - The terminal-inspired oss.codes community site, project registry, and blog. Built with Astro. ⭐ 0
-- [ledry](https://github.com/oss-codes/ledry) - Local-first AI lead research through the browser, CLI, OpenTUI, and agent skills. Built with TypeScript. ⭐ 1
-- [grepdev](https://github.com/oss-codes/grepdev) - Agent skill for screening GitHub developers using contribution signals and AI-spam detection. Built with Python. ⭐ 2
+1. [voice-cost](https://github.com/oss-codes/voice-cost) - Source-linked Voice AI pricing calculators, framework research, and provider comparisons. Built with Astro. ⭐ 3
+2. [website](https://github.com/oss-codes/website) - The terminal-inspired oss.codes community site, project registry, and blog. Built with Astro. ⭐ 0
+3. [ledry](https://github.com/oss-codes/ledry) - Local-first AI lead research through the browser, CLI, OpenTUI, and agent skills. Built with TypeScript. ⭐ 1
+4. [grepdev](https://github.com/oss-codes/grepdev) - Agent skill for screening GitHub developers using contribution signals and AI-spam detection. Built with Python. ⭐ 2
+
+## ORG: [urlsdotbid](https://github.com/urlsdotbid)
+
+A crypto-native URL shortener, static-site host, and bio-link protocol with peer-to-peer USDC settlement on Base and Solana.
+
+1. [skill](https://github.com/urlsdotbid/skill) - Official AI agent skill for shortening links, creating bio profiles, hosting static websites, and monetizing assets through urls.bid. Built with Shell. ⭐ 1
 
 ---
 
